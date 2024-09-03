@@ -1,4 +1,4 @@
-# HTML e CSS
+# HTML | CSS
 
 ***Curso de Design responsivo para a web da [freeCodeCamp](https://www.freecodecamp.org/portuguese/learn/2022/responsive-web-design/)***
 
